@@ -1,6 +1,6 @@
 {
   "name": "tuneblend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Intelligently sort your setlist using information you didn't even know you had. ",
   "keywords": [
     "music",
@@ -27,8 +27,8 @@
     "ts-loader": "^6.2.1",
     "typedoc": "^0.17.1",
     "typescript": "^3.8.3",
+    "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14",
-    "webpack": "^4.29.0"
+    "webpack-dev-server": "^3.1.14"
   }
 }
