@@ -1,0 +1,5 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.gckli.tuneblend --config ./build/electron-builder.yml
+electronVersion: 8.1.1
